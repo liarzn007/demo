@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 Hello, Next to meet you！
 
 ​                                                                               written  by *suntarliarzn*
+=======
+---
+title: hello world
+
+key: A20180808
+
+tags: article
+
+layout: article 
+---
+
+This is my first blog powered by Github and Jekyll！
+
+
+
+​                                                                                           *suntarliarzn*
+>>>>>>> parent of ff91de7... 1
