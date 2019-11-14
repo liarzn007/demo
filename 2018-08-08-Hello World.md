@@ -1,21 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+​                                                                written  by *suntarliarzn*
 
-
-This is my first blog 
-
-
-
-​                                                                                           *suntarliarzn*
-=======
-Hello, Next to meet you！
->>>>>>> parent of d1862dc... new
-=======
-Hello, Next to meet you！
-
-<<<<<<< HEAD
-​                                                                               written  by *suntarliarzn*
-=======
 ---
 title: hello world
 
@@ -34,10 +18,11 @@ This is my first blog powered by Github and Jekyll！
 <<<<<<< HEAD
 ​                                                                                           *suntarliarzn*
 >>>>>>> parent of ff91de7... 1
-=======
-​                                                                                           *suntarliarzn*
+>>>>>>> =======
+>>>>>>> ​                                                                                           *suntarliarzn*
+>>>>>>>
 >>>>>>> parent of ff91de7... 1
-=======
+>>>>>>> =======
 
 
 ​                                                                                           *suntarliarzn*
